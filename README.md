@@ -21,7 +21,7 @@ PROFILE
 <table>
   
   <tr align='center'>
-      <td>
+      <td style="color: blue;">
        I am Pinkrah Nana Ofosuhene, a final-year student of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST). My passion lies in understanding and mitigating the impacts of climate change, which has driven my academic journey towards practical, data-driven research, particularly in the field of climate science.
 
 At the core of my studies is a major project focused on heatwave trends across various regions in Ghana, including Bole, Navrongo, Wa, Walewale, and Yendi. My analysis explores the intensity of heatwaves under different climate scenarios, with a particular emphasis on the RCP 8.5 and 2.6 scenarios.  Where I and my project members examine how future climate conditions may influence the frequency and severity of heatwaves.
