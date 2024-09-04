@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/damponsah20/readme-typing-svg">
+  <a href="https://github.com/PinkrahNanaOfosuhene/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20and%20Researcher;Data%20Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -92,25 +92,25 @@ Do you care to know more about me?
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=damponsah20&theme=react&border=61dafb&hide_border=true" alt="damponsah" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=damponsah20&theme=react&border=61dafb&hide_border=true" alt="PinkrahNanaOfosuhene" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=damponsah20&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damponsah20&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   <br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damponsah20&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene20&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 <h3 align="center"> 
  🔦 Visitors Count: 
 </h3>
 <div align="center"> 
-<img align="center" src = "https://profile-counter.glitch.me/damponsah20/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg" alt ="Loading">
 </div>
