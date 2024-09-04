@@ -68,7 +68,7 @@ Throughout my academic and professional journey, I have developed a strong prefe
 <br/>
 </p>
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 PASSION 🔥</h2>
 <br>
 <p align="center">
   <img title="Python" height="30" src="Python.svg">
