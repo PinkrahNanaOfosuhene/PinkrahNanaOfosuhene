@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=HI,;I+am+PINKRAH+NANA+OFOSUHENE...&center=true&size=30">
   </a>
 </h1>
-
+<img src="https://readme-typing-svg.herokuapp.com/?lines=HI,;I+am+PINKRAH+NANA+OFOSUHENE...&center=true&size=30" alt="Typing SVG">
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/pinkrah-nana-ofosuhene-4a4a73212//" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
