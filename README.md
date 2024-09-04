@@ -22,15 +22,23 @@ PROFILE
   
   <tr align='center'>
       <td>
-       🔭 I am currently a final year undergraduate student at Kwame Nkrumah University of Science and Technology, Kumasi-Ghana, working on CHARACTERISTICS AND LONG TERM TRENDS OF HEATWAVES OVER GHANA (selected some towns in Ghanas' Sudan and Guinea Savannah agro-climatic zones) using outputs from Representative Concentration Pathway (RCP 2.6, 8.5) and Ghana Meteorological Agency. Results indicate the intensification of more heatwave events (2025 - 2054) , with mean magnitudes increasing by 0.5˚C to 2.5˚C. The frequency of heatwave days is projected to rise by 8.1% to 58% annually. Our findings suggest a significant intensification of heatwaves in the selected regions, with potential severe impacts on ecosystems and human health. This underscores the urgent need for enhanced planning, early warning systems and adaptive measures!
-. We recommend prioritizing heat-resilient infrastructure and community-based adaptation strategies to safeguard vulnerable populations in Ghana!
-. Other papers / reasearch indicate the intensification of heatwaves events in the future 👀 ,  Climate Science is fun💟
+       I am Pinkrah Nana Ofosuhene, a final-year student of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST). My passion lies in understanding and mitigating the impacts of climate change, which has driven my academic journey towards practical, data-driven research, particularly in the field of climate science.
+
+At the core of my studies is a major project focused on heatwave trends across various regions in Ghana, including Bole, Navrongo, Wa, Walewale, and Yendi. My analysis explores the intensity of heatwaves under different climate scenarios, with a particular emphasis on the RCP 8.5 and 2.6 scenarios.  Where I and my project members examine how future climate conditions may influence the frequency and severity of heatwaves.
+
+I have also worked on developing an SEIR model for HIV/AIDS in Ghana, aiming to mimic real-world dynamics accurately. This model is designed with specific constraints to ensure it remains realistic and applicable to the Ghanaian context, reflecting my attention to detail and commitment to producing robust, applicable findings, which can be found in my repositories.
+
+Beyond my academic pursuits, I serve as a facilitator at Gumption Ex, where I share my expertise in programming languages with others. I am particularly proficient in Python, which I use for data analysis, visualization,  weather forecasting, and climate simulations. Additionally, I am skilled in C++, applying this knowledge to robotics projects, such as programming traffic lights and simulating vehicle movements using Arduino boards. My role as a facilitator allows me to mentor others and foster a community of learning and innovation, which I find deeply fulfilling.
+
+I am also preparing to engage in a new venture where I will be training young minds in programming. I am committed to education, and I take pride in my ability to convey complex concepts in an accessible manner, making me an invaluable resource in any instructional setting, I also have youtube channel where I teach how to program with Python and CDO.
+
+Throughout my academic and professional journey, I have developed a strong preference for clarity and precision. 
      </td>
   </tr>
   
   <tr align='center'>
       <td>
-      🌱 I am into Climate change and impacts on biodiversity, data science and analytics, computing, machine learning, AI, Disease modeling, as well as Farming.
+      I am a dedicated and meticulous researcher, a skilled programmer, and an inspiring mentor. My work in climate science, epidemiology, and education reflects my commitment to making a meaningful impact on society, both through my research and my efforts to empower others with knowledge and skills.
       </td>
   </tr>
   
@@ -48,7 +56,7 @@ PROFILE
   
   <tr align='center'>
       <td>
-      📫 You can reach out to me at amponsahdaniel2020@gmail.com or damponsah11@st.knust.edu.gh. You are welcome to have an engaging conversation about science, data and creative development and others.
+      📫 You can reach out to me at pinkrahnanaofosuhene9690@gmail.com or nopinkrah@st.knust.edu.gh. You are welcome to have an engaging conversation about science, data and creative development and others.
       </td>
   </tr>
   
