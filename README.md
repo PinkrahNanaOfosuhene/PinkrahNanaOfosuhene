@@ -26,25 +26,22 @@ PROFILE
 
 At the core of my studies is a major project focused on heatwave trends across various regions in Ghana, including Bole, Navrongo, Wa, Walewale, and Yendi. My analysis explores the intensity of heatwaves under different climate scenarios, with a particular emphasis on the RCP 8.5 and 2.6 scenarios.  Where I and my project members examine how future climate conditions may influence the frequency and severity of heatwaves.
 
-I have also utilized an SEIR model for HIV/AIDS in Ghana, aiming to mimic real-world dynamics accurately. This model is designed with specific constraints to ensure it remains realistic and applicable to the Ghanaian context, reflecting my attention to detail and commitment to producing robust, applicable findings, which can be found in my repositories.
+I also utilized an SEIR model for HIV/AIDS in Ghana, aiming to mimic real-world dynamics accurately. This model is designed with specific constraints to ensure it remains realistic and applicable to the Ghanaian context, reflecting my attention to detail and commitment to producing robust, applicable findings, which can be found in my repositories.
 
 Beyond my academic pursuits, I serve as a facilitator at Gumption Ex, where I share my expertise in programming languages with others. I am particularly proficient in Python, which I use for data analysis, visualization,  weather forecasting, and climate simulations. Additionally, I am skilled in C++, applying this knowledge to robotics projects, such as programming traffic lights and simulating vehicle movements using Arduino boards. My role as a facilitator allows me to mentor others and foster a community of learning and innovation, which I find deeply fulfilling.
-
-I am also preparing to engage in a new venture where I will be training young minds in programming. I am committed to education, and I take pride in my ability to convey complex concepts in an accessible manner, making me an invaluable resource in any instructional setting, I also have youtube channel where I teach how to program with Python and CDO.
-
-Throughout my academic and professional journey, I have developed a strong preference for clarity and precision. 
      </td>
   </tr>
   
   <tr align='center'>
       <td>
-      I am a dedicated and meticulous researcher, a skilled programmer, and an inspiring mentor. My work in climate science, epidemiology, and education reflects my commitment to making a meaningful impact on society, both through my research and my efforts to empower others with knowledge and skills.
+     I am also preparing to engage in a new venture where I will be training young minds in programming. I am committed to education, and I take pride in my ability to convey complex concepts in an accessible manner, making me an invaluable resource in any instructional setting, I also have youtube channel where I teach how to program with Python and CDO.
+Throughout my academic and professional journey, I have developed a strong preference for clarity and precision. 
       </td>
   </tr>
   
   <tr align='center'>
       <td>
-      🤝 I am open to partnering on initiatives involving data, climate science, Artificial Intelligence. Volunteering / Collaborating for research that captures my interest is something I would consider.
+      I am a dedicated and meticulous researcher, a skilled programmer, and an inspiring mentor. My work in climate science, epidemiology, and education reflects my commitment to making a meaningful impact on society, both through my research and my efforts to empower others with knowledge and skills.
       </td>
   </tr>
   
@@ -91,7 +88,7 @@ Throughout my academic and professional journey, I have developed a strong prefe
   
 
 <hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">PASSION</h2>
 <br>
 <p align=center>
   <div align=center>
