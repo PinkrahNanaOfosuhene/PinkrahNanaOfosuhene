@@ -7,11 +7,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/pinkrah-nana-ofosuhene-4a4a73212//" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
-  <code>
-  <a href="https://discord.com/channels/@me" title="Discord Profile">
-    <img width="22" src="discord.svg" alt="Discord"> Discord
-  </a>
-</code>
   <code><a href="https://www.instagram.com/pinkrahnana2020/" title="Instagram Profile"><img width="24" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
