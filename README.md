@@ -57,12 +57,6 @@ Throughout my academic and professional journey, I have developed a strong prefe
       </td>
   </tr>
   
-  <tr align='center'>
-      <td>
-      ⚡ Interestingly, one fun fact about me is that I never rest until a task is completed or a better version is produced.
-      </td>
-  </tr>
-  
 </table>
 
 <br/>
