@@ -7,7 +7,8 @@
   <code><a href="https://www.instagram.com/pinkrahnana2020/" title="Instagram Profile"><img width="24" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
-
+<code><a href="https://www.youtube.com/@pinkrahnanaofosuhene8926" title="YouTube Channel"><img width="24" src="youtube.svg"> YouTube</a></code>
+<br>
 
 <p align="center">
   <a href="https://github.com/PinkrahNanaOfosuhene/readme-typing-svg">
