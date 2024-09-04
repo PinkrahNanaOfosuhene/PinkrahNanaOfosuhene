@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/PinkrahNanaOfosuhene/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20and%20Researcher;Data%20Scientist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Climate%20Scientist%20and%20Researcher;Data%20Scientist;LOVE%20TO%20DISCOVER%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">
@@ -26,7 +26,7 @@ PROFILE
 
 At the core of my studies is a major project focused on heatwave trends across various regions in Ghana, including Bole, Navrongo, Wa, Walewale, and Yendi. My analysis explores the intensity of heatwaves under different climate scenarios, with a particular emphasis on the RCP 8.5 and 2.6 scenarios.  Where I and my project members examine how future climate conditions may influence the frequency and severity of heatwaves.
 
-I have also worked on developing an SEIR model for HIV/AIDS in Ghana, aiming to mimic real-world dynamics accurately. This model is designed with specific constraints to ensure it remains realistic and applicable to the Ghanaian context, reflecting my attention to detail and commitment to producing robust, applicable findings, which can be found in my repositories.
+I have also utilized an SEIR model for HIV/AIDS in Ghana, aiming to mimic real-world dynamics accurately. This model is designed with specific constraints to ensure it remains realistic and applicable to the Ghanaian context, reflecting my attention to detail and commitment to producing robust, applicable findings, which can be found in my repositories.
 
 Beyond my academic pursuits, I serve as a facilitator at Gumption Ex, where I share my expertise in programming languages with others. I am particularly proficient in Python, which I use for data analysis, visualization,  weather forecasting, and climate simulations. Additionally, I am skilled in C++, applying this knowledge to robotics projects, such as programming traffic lights and simulating vehicle movements using Arduino boards. My role as a facilitator allows me to mentor others and foster a community of learning and innovation, which I find deeply fulfilling.
 
