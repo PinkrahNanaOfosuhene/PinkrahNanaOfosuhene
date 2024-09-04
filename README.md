@@ -6,7 +6,7 @@
 
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/daniel-amponsah-89a783217/" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/pinkrah-nana-ofosuhene-4a4a73212//" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
   <code><a href="https://twitter.com/@just_amponsah/" title="Twitter Profile"><img width="22" src="twitter.svg"> Twitter</a></code>
   <code><a href="https://www.instagram.com/pinkrahnana2020/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
@@ -19,7 +19,7 @@
 </p>
 
 <h3 align="center">
-Do you care to know more about me?
+PROFILE
 </h3>
 
 <table>
