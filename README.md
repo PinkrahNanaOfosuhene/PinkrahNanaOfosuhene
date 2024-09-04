@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+PINKRAH+NANA_OFOSUHENE...&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi;I+am+PINKRAH+NANA+OFOSUHENE...&center=true&size=25">
   </a>
 </h1>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=HI,;+I+am+PINKRAH+NANA+OFOSUHENE...&center=true&size=30" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=HI,;+I+am+PINKRAH+NANA+OFOSUHENE...&center=true&size=25" alt="Typing SVG">
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/pinkrah-nana-ofosuhene-4a4a73212//" title="LinkedIn Profile"><img width="22" src="LinkedIn.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/pinkrahnana2020/" title="Instagram Profile"><img width="24" src="instagram.svg"> Instagram</a></code>
