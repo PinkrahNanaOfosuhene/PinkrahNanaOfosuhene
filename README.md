@@ -58,6 +58,55 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
+
+
+
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌍;I'm+PINKRAH+NANA+OFOSUHENE+🌱;&center=true&size=24">
+</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pinkrah-nana-ofosuhene-4a4a73212/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/pinkrahnana2020/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+<h2 align="center">🌟 Profile 🌟</h2>
+
+<p align="justify">
+I'm Pinkrah Nana Ofosuhene, a passionate climate researcher and teaching assistant, committed to tackling the complex challenges of climate change, weather forecasting, and air quality. Let’s work together to make the future sustainable! 🌍
+</p>
+
+<h2 align="center">🔥 Skills & Tools 🔥</h2>
+
+<p align="center">
+  <img title="Python" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
+  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+  <img title="Pandas" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
+</p>
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+    <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&border=FF6600&hide_border=true" alt="GitHub Streak">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="GitHub Stats">
+</p>
+
+<h3 align="center"> 
+   👀 Visitors Count: 
+</h3>
+
+<p align="center"> 
+  <img align="center" src="https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg" alt="Visitors Counter">
+</p>
+
 <p align="center">
   <a href="https://github.com/PinkrahNanaOfosuhene">
     <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&border=FF6600&hide_border=true" alt="GitHub Streak" style="border:solid 1px #FFA500;">
