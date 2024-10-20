@@ -74,7 +74,7 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene&theme=github-compact&bg_color=0D1117&color=99D4E5&line=FF5733&point=F1C40F&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene&theme=github-compact&bg_color=0D1117&color=39D4E5&line=FF5733&point=F1C40F&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
 <h3 align="center"> 
