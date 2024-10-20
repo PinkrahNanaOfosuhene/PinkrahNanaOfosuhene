@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌍;I'm+PINKRAH+NANA+OFOSUHENE+🌱;&center=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌍;I'm+PINKRAH+NANA+OFOSUHENE+🌱;&center=true&size=24">
 </h1>
 
 <p align="center">
@@ -16,33 +16,33 @@
 
 <br>
 
-<h2 align="center">🌟 PROFILE 🌟</h2>
+<h2 align="center">🌟 Profile 🌟</h2>
 
 <p align="justify">
-Hi! I'm **Pinkrah Nana Ofosuhene**, a Teaching and Research Assistant in the Department of Meteorology and Climate Science at **Kwame Nkrumah University of Science and Technology (KNUST)**, Ghana. I'm passionate about understanding and mitigating the impacts of **climate change**, with a focus on meteorology in the tropics, climate dynamics, and boundary layer meteorology.
+Hello! I'm Pinkrah Nana Ofosuhene, a Teaching and Research Assistant in the Department of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. My passion lies in understanding and mitigating the impacts of climate change, with a special interest in meteorology in the tropics, climate dynamics, and boundary layer meteorology.
 </p>
 
 <p align="justify">
-My research involves studying **heatwave trends** across various regions in Ghana (Bole, Navrongo, Wa, Walewale, Yendi), especially under different climate scenarios like **RCP 8.5** and **RCP 2.6**. My project explores how future climate conditions will influence heatwaves, making it essential for building resilience in local communities.
+My research delves into heatwave trends across regions like Bole, Navrongo, Wa, Walewale, and Yendi, particularly under different climate scenarios such as RCP 8.5 and RCP 2.6. Through my work, I aim to uncover how future climate conditions will influence the frequency and intensity of heatwaves and support resilience-building efforts within communities.
 </p>
 
 <p align="justify">
-I’ve also worked on an **SEIR model for HIV/AIDS** in Ghana, focusing on ensuring the model reflects real-world dynamics with accurate constraints. My goal is to produce research that not only adds to the field of climate science but also contributes to effective decision-making.
+In addition to climate research, I've explored an SEIR model for HIV/AIDS in Ghana. I focus on ensuring that my models reflect real-world dynamics with accurate constraints, striving for impactful, research-backed decisions.
 </p>
 
 <p align="justify">
-👨‍🏫 As a **facilitator at Gumption Ex**, I mentor students and teach programming languages such as Python for data analysis, weather forecasting, and climate simulations. I'm proficient in C++, using it to program traffic lights and simulate vehicle movements with Arduino. Sharing my skills and knowledge with others is something I truly enjoy.
+👨‍🏫 As a facilitator at Gumption Ex, I take pride in mentoring students, teaching programming languages such as Python for data analysis, weather forecasting, and climate simulations. I’m also proficient in C++, which I use for programming traffic lights and simulating vehicle movements using Arduino. Sharing knowledge and simplifying complex concepts is something I thoroughly enjoy.
 </p>
 
 <p align="justify">
-🖥️ In addition, I will soon begin training young minds in **programming**, and I run a **YouTube channel** where I teach Python and CDO. I am committed to education and pride myself on my ability to explain complex concepts in simple, accessible ways.
+Beyond academia, I run training programs for young learners in programming and manage a YouTube channel dedicated to Python tutorials and CDO insights. Education and mentorship are core to who I am as a professional and as a person.
 </p>
 
 <p align="justify">
-💼 I am a dedicated researcher, skilled programmer, and inspiring mentor. I aim to make a meaningful impact in climate science, epidemiology, and education by contributing my expertise and empowering others through mentorship and hands-on learning.
+Whether it’s research, programming, or mentorship, I aim to make a meaningful impact in climate science, epidemiology, and education. I’m driven by the desire to use my skills to foster resilience, advocate for impactful policy decisions, and empower others through hands-on learning.
 </p>
 
-<h2 align="center">🔥 SKILLS & TOOLS 🔥</h2>
+<h2 align="center">🔥 Skills & Tools 🔥</h2>
 
 <p align="center">
   <img title="Python" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
@@ -56,7 +56,7 @@ I’ve also worked on an **SEIR model for HIV/AIDS** in Ghana, focusing on ensur
   <img title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
 </p>
 
-<h2 align="center">📊 GITHUB STATS 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
   <a href="https://github.com/PinkrahNanaOfosuhene">
