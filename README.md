@@ -69,7 +69,7 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&border_color=F56F91&hide_border=true" alt="Top Languages" style="border:solid 1px #FF69B4;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&border_color=F56F91&hide_border=true" alt="Top Languages" style="border:solid 4px #FF69B4;">
   </a>
 </p>
 
