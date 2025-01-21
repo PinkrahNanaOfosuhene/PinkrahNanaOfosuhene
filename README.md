@@ -61,18 +61,32 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 <p align="center">
   <!-- GitHub Streak -->
   <a href="https://github.com/PinkrahNanaOfosuhene">
-    <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&hide_border=true" alt="GitHub Streak" style="border:solid 2px #FFA500;">
+    <img width="390" src="https://streak-stats.demolab.com?user=PinkrahNanaOfosuhene&theme=highcontrast&hide_border=true" alt="GitHub Streak">
   </a>
-  <!-- GitHub Stats -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="border:solid 2px #FF4500;">
-  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats (Custom HTML Table) -->
+  <table align="center">
+    <tr>
+      <th>Repositories</th>
+      <th>Commits</th>
+      <th>Stars</th>
+      <th>Followers</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/PinkrahNanaOfosuhene?tab=repositories">15+</a></td>
+      <td>500+</td>
+      <td>30+</td>
+      <td>10+</td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
   <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&hide_border=true" alt="Top Languages" style="border:solid 2px #FF69B4;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&hide_border=true" alt="Top Languages">
   </a>
 </p>
 
