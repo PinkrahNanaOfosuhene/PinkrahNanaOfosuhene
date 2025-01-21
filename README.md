@@ -19,27 +19,23 @@
 <h2 align="center">🌟 Profile 🌟</h2>
 
 <p align="justify">
-Hello! I'm Pinkrah Nana Ofosuhene, a Teaching and Research Assistant in the Department of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. My passion lies in understanding and mitigating the impacts of climate change, with a special interest in meteorology in the tropics, climate dynamics, and boundary layer meteorology.
+Hello! I'm Pinkrah Nana Ofosuhene, a Teaching and Research Assistant in the Department of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. My work focuses on understanding climate change and its interactions with air quality, extreme weather events, and tropical meteorology. I'm passionate about building resilience in communities by leveraging data-driven solutions.
 </p>
 
 <p align="justify">
-My research delves into heatwave trends across regions like Bole, Navrongo, Wa, Walewale, and Yendi, particularly under different climate scenarios such as RCP 8.5 and RCP 2.6. Through my work, I aim to uncover how future climate conditions will influence the frequency and intensity of heatwaves and support resilience-building efforts within communities.
+My current research involves analyzing heatwave trends and characteristics across Northern Ghana under Representative Concentration Pathways (RCPs) 8.5 and 2.6. I'm particularly interested in how climate change influences the frequency and intensity of extreme weather events and the associated implications for local communities.
 </p>
 
 <p align="justify">
-In addition to climate research, I've explored an SEIR model for HIV/AIDS in Ghana. I focus on ensuring that my models reflect real-world dynamics with accurate constraints, striving for impactful, research-backed decisions.
+👩‍💻 In addition to climate research, I have a strong background in programming and modeling. I facilitate Python workshops, teaching data analysis, visualization, and climate simulations. My technical skills extend to using tools like CDO and NCL for climate data processing, as well as C++ for robotics projects, such as simulating vehicle movements and programming traffic lights using Arduino.
 </p>
 
 <p align="justify">
-👨‍🏫 As a facilitator at Gumption Ex, I take pride in mentoring students, teaching programming languages such as Python for data analysis, weather forecasting, and climate simulations. I’m also proficient in C++, which I use for programming traffic lights and simulating vehicle movements using Arduino. Sharing knowledge and simplifying complex concepts is something I thoroughly enjoy.
+As a tutor and mentor, I guide students in mastering programming languages, empowering them to solve real-world problems. My YouTube channel is an extension of this passion, where I share tutorials on Python and climate-related tools, such as CDO.
 </p>
 
 <p align="justify">
-Beyond academia, I run training programs for young learners in programming and manage a YouTube channel dedicated to Python tutorials and CDO insights. Education and mentorship are core to who I am as a professional and as a person.
-</p>
-
-<p align="justify">
-Whether it’s research, programming, or mentorship, I aim to make a meaningful impact in climate science, epidemiology, and education. I’m driven by the desire to use my skills to foster resilience, advocate for impactful policy decisions, and empower others through hands-on learning.
+Whether conducting research, developing models, or mentoring others, I aim to use my expertise to contribute to climate resilience, effective policymaking, and education.
 </p>
 
 <h2 align="center">🔥 Skills & Tools 🔥</h2>
@@ -51,7 +47,10 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
   <img title="NumPy" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
   <img title="Matplotlib" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
   <img title="Scikit-learn" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">
+  <img title="CDO" height="30" src="https://avatars.githubusercontent.com/u/6761464?s=200&v=4">
+  <img title="NCL" height="30" src="https://avatars.githubusercontent.com/u/6761464?s=200&v=4">
   <img title="LaTeX" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png">
+  <img title="Arduino" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/arduino/arduino.png">
   <img title="PyCharm" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png">
   <img title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
 </p>
