@@ -89,4 +89,6 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 </h3>
 <p align="center"> 
   <img align="center" src="https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg" alt="Visitors Counter">
+<h3 align="center">📈 Longest Streak: 30 Days</h3>
+<p align="center"> From June 1, 2023, to June 30, 2023 </p>
 </p>
