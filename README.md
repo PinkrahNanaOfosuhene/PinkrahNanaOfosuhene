@@ -46,7 +46,7 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 
 <p align="center">
   <img title="Python" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/Jupyter.svg">
+  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/Jupyter-notebook.png">
   <img title="Pandas" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
   <img title="NumPy" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
   <img title="Matplotlib" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
