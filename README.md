@@ -61,26 +61,15 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 <p align="center">
   <!-- GitHub Streak -->
   <a href="https://github.com/PinkrahNanaOfosuhene">
-    <img width="390" src="https://streak-stats.demolab.com?user=PinkrahNanaOfosuhene&theme=highcontrast&hide_border=true" alt="GitHub Streak">
+    <img width="390" src="https://streak-stats.demolab.com?user=PinkrahNanaOfosuhene&theme=highcontrast&hide_border=true&dates=false&mode=weekly" alt="GitHub Streak">
   </a>
 </p>
 
 <p align="center">
-  <!-- GitHub Stats (Custom HTML Table) -->
-  <table align="center">
-    <tr>
-      <th>Repositories</th>
-      <th>Commits</th>
-      <th>Stars</th>
-      <th>Followers</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/PinkrahNanaOfosuhene?tab=repositories">15+</a></td>
-      <td>500+</td>
-      <td>30+</td>
-      <td>10+</td>
-    </tr>
-  </table>
+  <!-- GitHub Summary -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="GitHub Stats">
+  </a>
 </p>
 
 <p align="center">
