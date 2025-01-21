@@ -59,28 +59,21 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <!-- GitHub Streak -->
   <a href="https://github.com/PinkrahNanaOfosuhene">
-    <img width="390" src="https://streak-stats.demolab.com?user=PinkrahNanaOfosuhene&theme=highcontrast&hide_border=true&dates=false&mode=weekly" alt="GitHub Streak">
+    <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&border=FF6600&hide_border=true" alt="GitHub Streak" style="border:solid 2px #FFA500;">
   </a>
-</p>
-
-<p align="center">
-  <!-- GitHub Summary -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="GitHub Stats">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="GitHub Stats" style="border:solid 2px #FF4500;">
   </a>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&hide_border=true" alt="Top Languages">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&border_color=F56F91&hide_border=true" alt="Top Languages" style="border:solid 2px #FF69B4;">
   </a>
 </p>
 
 <p align="center">
-  <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene&theme=github-compact&bg_color=0D1117&color=39D4E5&line=FF5733&point=F1C40F&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
@@ -89,6 +82,5 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
 </h3>
 <p align="center"> 
   <img align="center" src="https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg" alt="Visitors Counter">
-<h3 align="center">📈 Longest Streak: 30 Days</h3>
-<p align="center"> From June 1, 2023, to June 30, 2023 </p>
 </p>
+
