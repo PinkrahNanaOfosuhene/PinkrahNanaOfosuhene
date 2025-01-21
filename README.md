@@ -56,22 +56,6 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
   <img title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
 </p>
 
----
-
-<h2 align="center">🔥 Skills & Tools 🔥</h2>
-
-<p align="center">
-  <img title="Python" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
-  <img title="Pandas" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
-  <img title="NumPy" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
-  <img title="Matplotlib" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
-  <img title="Scikit-learn" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">
-  <img title="LaTeX" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png">
-  <img title="PyCharm" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png">
-  <img title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
-</p>
-
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
