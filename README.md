@@ -27,7 +27,7 @@ My current research delves into heatwave trends across Ghana. Heatwaves pose esc
 </p>
 
 <p align="justify">
-I’m deeply passionate about <b>Climate Change</b>, <b>Air Quality</b>, and <b>Extreme Weather Events</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>. Beyond research.
+I’m deeply passionate about <b>Climate Change</b>, <b>Air Quality</b>, and <b>Extreme Weather Events</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>.
 </p>
 
 <p align="justify">
