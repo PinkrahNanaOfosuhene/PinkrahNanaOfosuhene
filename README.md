@@ -27,11 +27,11 @@ My current research delves into heatwave trends across Ghana. Heatwaves pose esc
 </p>
 
 <p align="justify">
-I’m deeply passionate about <b>Climate Change</b>, <b>Air Quality</b>, and <b>Extreme Weather Events</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>.
+I’m deeply passionate about <b>Weather Research and Forecasting</b>, <b>Climate Change</b>, <b>Air Quality</b>, and <b>Extreme Weather Events</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>.
 </p>
 
 <p align="justify">
-👨‍🏫 As a facilitator at Gumption Ex, I take pride in mentoring students, teaching programming languages such as Python for data analysis, weather forecasting, and climate simulations. I’m also proficient in C++, which I use for programming traffic lights and simulating vehicle movements using Arduino. Sharing knowledge and simplifying complex concepts is something I thoroughly enjoy.
+👨‍🏫 As a facilitator at Gumption Ex, I take pride in mentoring students, teaching programming languages such as Python for data analysis, and also Scratch. Sharing knowledge and simplifying complex concepts is something I thoroughly enjoy.
 </p>
 
 <p align="justify">
