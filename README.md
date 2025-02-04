@@ -35,7 +35,7 @@ I’m deeply passionate about <b>Weather Research and Forecasting</b>, <b>Climat
 </p>
 
 <p align="justify">
-Beyond academia, I run training programs for young learners in programming and manage a YouTube channel (<a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">here</a>) dedicated to Python tutorials and CDO insights. Education and mentorship are core to who I am, both as a professional and as a person.
+Beyond academia, I run training programs for young learners in programming and manage a (<a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">YouTube channel</a>) dedicated to Python tutorials and CDO insights. Education and mentorship are core to who I am, both as a professional and as a person.
 </p>
 
 
