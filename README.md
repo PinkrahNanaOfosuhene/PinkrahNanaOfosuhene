@@ -42,7 +42,7 @@ Beyond academia, I run training programs for young learners in programming and m
 
 
 <p align="justify">
-Whether it’s research, programming, or mentorship, I aim to make a meaningful impact in climate science, epidemiology, and education. I’m driven by the desire to use my skills to foster resilience, advocate for impactful policy decisions, and empower others through hands-on learning.
+Whether it’s research, programming, or mentorship, I aim to make a meaningful impact in climate science, epidemiology, and education. I am driven by the desire to use my skills to foster resilience, advocate for impactful policy decisions, and empower others through hands-on learning.
 </p>
 
 <h2 align="center">🔥 Skills & Tools 🔥</h2>
