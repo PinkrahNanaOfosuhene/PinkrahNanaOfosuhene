@@ -19,7 +19,7 @@
 <h2 align="center">🌟 Profile 🌟</h2>
 
 <p align="justify">
-Hello! I am Pinkrah Nana Ofosuhene, a Teaching and Research Assistant in the Department of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. My passion lies in understanding and mitigating the impacts of climate change, with a special interest in Climate modelling, Weather Research and Forecast, meteorology in the tropics, climate dynamics, and boundary layer meteorology.
+Hello! I am Pinkrah Nana Ofosuhene, a Teaching and Research Assistant in the Department of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. My passion lies in understanding and mitigating the impacts of climate change, with a special interest in Climate modelling, Weather Research and Forecast, meteorology in the tropics, and climate dynamics.
 </p>
 
 <p align="justify">
