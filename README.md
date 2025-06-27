@@ -15,7 +15,7 @@
   <a href="https://twitter.com/PinkrahOfosu">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://www.facebook.com/Pinkrah Nana Ofosuhene">
+  <a href="https://www.facebook.com/pinkrahnana2020">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
   <a href="https://www.snapchat.com/add/pinkrahnana2020">
