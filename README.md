@@ -4,7 +4,7 @@
 
 <p align="center">
     <p align="justify">
-These are my social media handles
+Connect with me on social media:
 </p>
   <a href="https://www.linkedin.com/in/nana-pinkrah-4a4a73212">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
