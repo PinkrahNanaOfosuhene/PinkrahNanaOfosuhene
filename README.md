@@ -12,10 +12,17 @@
   <a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-  <a href="https://twitter.com/@PinkrahOfosu">
+  <a href="https://twitter.com/PinkrahOfosu">
     <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
+  <a href="https://www.facebook.com/Pinkrah Nana Ofosuhene">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://www.snapchat.com/add/pinkrahnana2020">
+    <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" alt="Snapchat">
+  </a>
 </p>
+
 
 
 <br>
