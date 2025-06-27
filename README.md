@@ -12,7 +12,11 @@
   <a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+  <a href="https://twitter.com/@PinkrahOfosu">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
 </p>
+
 
 <br>
 
