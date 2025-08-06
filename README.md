@@ -42,7 +42,7 @@ heatwaves across Ghana’s climatic zones. We analyzed daily maximum temperature
 </p>
 
 <p align="justify">
-I am deeply passionate about <b>Weather Research and Forecasting</b>, <b>Climate Change</b>, <b>Air Quality</b>, and <b>Extreme Weather Events</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>.
+I am deeply passionate about <b>Weather Research and Forecasting</b>, <b>Extreme Weather Events</b>, <b>Air Quality</b>, and <b>Climate Change</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>.
 </p>
 
 <p align="justify">
