@@ -1,13 +1,10 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌍;I'm+PINKRAH+NANA+OFOSUHENE+🌱;&center=true&size=23">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌍;I'm+PINKRAH+NANA+OFOSUHENE;Atmospheric+Science+%7C+Storm+Environments;&center=true&size=23">
 </h1>
 
-
+<p align="center">
   <a href="https://www.linkedin.com/in/nana-pinkrah-4a4a73212">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/pinkrahnana2020/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
@@ -18,70 +15,94 @@
   <a href="https://www.facebook.com/pinkrahnana2020">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
+  <a href="https://www.instagram.com/pinkrahnana2020/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
   <a href="https://www.snapchat.com/add/pinkrahnana2020">
     <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" alt="Snapchat">
   </a>
 </p>
 
-
-
 <br>
 
-<h2 align="center">🌟 Profile 🌟</h2>
+<h2 align="center">🌟 About Me 🌟</h2>
 
 <p align="justify">
-Hello! I am Pinkrah Nana Ofosuhene, a current Teaching and Research Assistant in the Department of Meteorology and Climate Science at Kwame Nkrumah University of Science and Technology (KNUST), Ghana. My passion lies in understanding and mitigating the impacts of climate change, with a special interest in Climate modelling, Weather Research and Forecast, meteorology in the tropics, and climate dynamics. 
+I am <b>Pinkrah Nana Ofosuhene</b>, a graduate student in the <b>M.S. Geoscience</b> program at <b>Western Kentucky University (WKU)</b>, working under the advisement of <b>Dr. Xingang Fan</b>. My current research is part of the <b>Kentucky NSF EPSCoR – CLIMBS Project 1: Enhance Weather Understanding</b>, focusing on <b>storm environments, severe convective weather, and atmospheric variability</b> across Kentucky and the Ohio River Valley.
 </p>
 
 <p align="justify">
-My current research delves into heatwave trends across Ghana. Heatwaves, driven by climate change, pose growing risks to public health, agriculture, and society. In Ghana, they are often overlooked, with high temperatures perceived as isolated events rather than heatwaves. As a result, research on their historical prevalence, intensity, and frequency is scarce. To bridge this gap and support early warning systems and risk management, we analyzed the historical occurrence, frequency, duration, and intensity of heatwaves across Ghana’s climatic zones. We analyzed daily maximum temperature data from the Ghana Meteorological Agency spanning 1961 to 2020. Heatwaves were defined using a temperature-based percentile approach, identifying periods of three or more consecutive days where daily maximum temperatures exceeded the 97.5th percentile of historical records for each zone. Our results indicated that heatwaves in Ghana have become more frequent, longer duration, and more intense from 1961 to 2020, with the most significant increases occurring from 1980 onward. Their intensity decreased latitudinally from north to south across all climatic zones. The Sudan Savannah experienced the most extreme heatwaves mostly in March to April, reaching 2.5°C above the 97.5th percentile threshold of 41.2°C. The Guinea Savannah followed, with episodes mostly in February–March with magnitudes up to 2.0°C above the threshold of 40.0°C. In the Forest zone, heatwaves were predominant in February–March, with magnitudes between 1.0-2.0°C above the threshold of 35.5 degree celcius. The Coastal areas recorded fewer episodes compared to other zones widely occurring in February–April with similar intensity of 1.0-2.0°C above 34.1°C threshold. The temperature anomalies showed a sustained warming trend from the 1980s onward, with all zones surpassing 2.0°C warming by 2020. This period aligned with the sharp rise in heatwave events in all zones, emphasizing their serious impacts on ecosystems and public health. Urgent action is needed to enhance early warning systems, climate adaptation, and mitigation strategies to protect vulnerable populations in Ghana.
+I develop Python-based workflows to compute and analyze storm-environment diagnostics from <b>ERA5</b> and <b>HRRR</b> data, including:
+<b>CAPE</b> (ML, MU, SB), <b>CIN</b>, <b>LCL height</b>, <b>0–1 km / 0–6 km wind shear</b>, <b>storm-relative helicity (SRH)</b>, <b>lapse rates</b>, <b>vorticity</b>, <b>divergence</b>, <b>Significant Tornado Parameter (STP)</b>, and <b>Supercell Composite Parameter (SCP)</b>.
 </p>
 
 <p align="justify">
-I am deeply passionate about <b>Weather Research and Forecasting</b>, <b>Extreme Weather Events</b>, <b>Air Quality</b>, and <b>Climate Change</b>. My expertise spans across <b>data analysis, climate modeling, and programming</b>.
+Before WKU, I earned a <b>B.Sc. in Meteorology and Climate Science</b> from <b>KNUST</b> (Ghana) and worked as a <b>Teaching and Research Assistant</b> in the same department. My undergraduate research focused on <b>heatwaves in Ghana</b>—their prevalence, intensity, and long-term trends across different climatic zones using station data and percentile-based definitions.
 </p>
 
 <p align="justify">
-👨‍🏫 As a facilitator at Gumption Ex, I take pride in mentoring students, teaching programming languages such as Python for data analysis, and also Scratch. Sharing knowledge and simplifying complex concepts is something I thoroughly enjoy.
+I am passionate about <b>severe storms</b>, <b>extreme weather events</b>, <b>climate variability</b>, and the use of <b>data-driven methods</b> to improve understanding and prediction of high-impact events.
 </p>
 
-<p align="justify">
-Beyond academia, I run training programs for young learners in programming and manage a (<a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">YouTube channel</a>) dedicated to Python tutorials and CDO insights. Education and mentorship are core to who I am, both as a professional and as a person.
-</p>
+<h2 align="center">🎓 Highlights</h2>
 
+- 🎓 <b>M.S. Geoscience</b>, Western Kentucky University – Storm environments &amp; severe weather climatology  
+- 🎓 <b>B.Sc. Meteorology &amp; Climate Science</b>, KNUST – Heatwave trends in Northern Ghana  
+- 🔬 Graduate Research Assistant on <b>KY NSF EPSCoR – CLIMBS Project 1: Enhance Weather Understanding</b>  
+- 📊 Experience with <b>large-scale climate and weather datasets</b> (ERA5, HRRR, station data, KY Mesonet)  
+- 💻 Strong background in <b>Python, Fortran, CDO, NCL, WRF, and HPC</b> workflows  
 
-<p align="justify">
-Whether it’s research, programming, or mentorship, I aim to make a meaningful impact in climate science, epidemiology, and education. I am driven by the desire to use my skills to foster resilience, advocate for impactful policy decisions, and empower others through hands-on learning.
-</p>
+<h2 align="center">🛰️ Selected Research & Projects</h2>
+
+- 🌩️ <b>Storm Environment Diagnostics (CLIMBS – Project 1)</b>  
+  - Computation of STP, SCP, CAPE, CIN, SRH, shear, lapse rates, vorticity, and divergence from ERA5/HRRR.  
+  - Analysis of spatiotemporal patterns of severe-storm environments over Kentucky and the Ohio River Valley.  
+
+- 🌧️ <b>KY Extreme Precipitation Probability</b>  
+  - Atlas-14-style rainfall rate and exceedance probability analysis using KY Mesonet data.  
+
+- 🔥 <b>Heatwaves in Ghana</b>  
+  - Assessment of heatwave frequency, duration, and intensity (1961–2020) across Ghana’s climatic zones using daily Tmax and percentile-based thresholds.  
+
+- 🧑‍🏫 <b>Teaching & Mentorship</b>  
+  - Former Teaching & Research Assistant at KNUST, supporting courses and projects in Python, CDO, NCL, and Fortran.  
+  - Facilitator at <b>Gumption Ex</b>, mentoring students in programming and basic data analysis.  
+  - Creator of a <a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">YouTube channel</a> with tutorials on Python, climate data tools, and related topics.  
 
 <h2 align="center">🔥 Skills & Tools 🔥</h2>
 
 <p align="center">
+  <!-- Core languages & tools -->
   <img title="Python" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/Jupyter-notebook.png">
+  <img title="Fortran" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/fortran/fortran.png">
+  <img title="C++" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+  <img title="Jupyter" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
   <img title="Pandas" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png">
   <img title="NumPy" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png">
   <img title="Matplotlib" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png">
   <img title="Scikit-learn" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">
   <img title="LaTeX" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png">
-  <img title="PyCharm" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/pycharm/pycharm.png">
   <img title="Visual Studio Code" height="30" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png">
+</p>
+
+<p align="center">
+  <b>Climate & Weather Stack:</b> CDO · NCL · WRF · ERA5 · HRRR · xarray · MetPy · Cartopy · Linux · NCAR HPC (Casper & Derecho)
 </p>
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
   <a href="https://github.com/PinkrahNanaOfosuhene">
-    <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&border=FF6600&hide_border=true" alt="GitHub Streak" style="border:solid 2px #FFA500;">
+    <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&border=FF6600&hide_border=true" alt="GitHub Streak">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="GitHub Stats" style="border:solid 2px #FF4500;">
+    <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="GitHub Stats">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&border_color=F56F91&hide_border=true" alt="Top Languages" style="border:solid 2px #FF69B4;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&title_color=F56F91&text_color=ffffff&icon_color=61dafb&bg_color=1A1A1D&langs_count=8&layout=compact&border_color=F56F91&hide_border=true" alt="Top Languages">
   </a>
 </p>
 
@@ -89,9 +110,7 @@ Whether it’s research, programming, or mentorship, I aim to make a meaningful 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene&theme=github-compact&bg_color=0D1117&color=39D4E5&line=FF5733&point=F1C40F&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph">
 </p>
 
-<h3 align="center"> 
-   👀 Visitors Count: 
-</h3>
-<p align="center"> 
-  <img align="center" src="https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg" alt="Visitors Counter">
+<h3 align="center">👀 Visitors Count</h3>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg" alt="Visitors Counter">
 </p>
