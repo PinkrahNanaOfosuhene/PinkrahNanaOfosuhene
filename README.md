@@ -97,7 +97,7 @@ Beyond research, I am passionate about mentoring young scientists and fostering 
 <p align="justify">
 Weather affects everything - our safety, food systems, infrastructure, and health.  
 My goal is to bridge <b>data science, atmospheric physics, and societal resilience</b> to better predict and mitigate high-impact weather.  
-From heatwaves in Africa to tornadoes in the U.S., I aim to contribute to a world where <b>climate research translates into preparedness and protection</b>.
+I aim to contribute to a world where <b>climate research translates into preparedness and protection</b>.
 </p>
 
 ---
