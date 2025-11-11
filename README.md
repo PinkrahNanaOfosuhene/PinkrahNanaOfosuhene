@@ -43,33 +43,22 @@ Beyond research, I am passionate about mentoring young scientists and fostering 
 ## ⚡ Research & Focus Areas  
 
 - 🌩️ **Severe Storm Environments:**  
-  Computation and analysis of convective parameters — CAPE, CIN, SRH, vertical wind shear, LCL height, lapse rates, vorticity, divergence, STP, SCP, EHI, and BRN — using **ERA5** and **HRRR** reanalysis datasets.  
+  Computation and analysis of convective parameters - such as CAPE, CIN, SRH, vertical wind shear, LCL height, lapse rates, vorticity, divergence, STP, SCP, EHI, and BRN - using ERA5 and reanalysis datasets and CMIP6 datasets.  
 
-- 📈 **Statistical & Climate Modeling:**  
+- **Statistical & Climate Modeling:**  
   Developing predictive frameworks linking reanalysis (ERA5) and global climate models (CMIP6) to assess future changes in storm environments.  
 
-- ☁️ **High-Performance Computing (HPC):**  
+- **High-Performance Computing (HPC):**  
   Executing large-scale computations on **NCAR’s Casper & Derecho** clusters using Python, Fortran, and parallelized workflows.  
 
-- 🔥 **Heatwaves & Climate Extremes:**  
+- **Heatwaves & Climate Extremes:**  
   Studying frequency, duration, and intensity of heatwaves and drought indices under varying RCP scenarios.  
 
-- 🌍 **Tropical Meteorology:**  
+- **Tropical Meteorology:**  
   Understanding boundary-layer dynamics, monsoon circulations, and ENSO-related variability.
 
 ---
 
-## 🛰️ Selected Projects  
-
-| **Project** | **Description** |
-|--------------|-----------------|
-| **CLIMBS Project 1 – Enhance Weather Understanding** | NSF Kentucky EPSCoR initiative investigating atmospheric variability and storm-forcing mechanisms across time. |
-| **Tornado Environment Diagnostics (Ohio River Valley)** | Multi-decadal ERA5-based analysis of convective indices and storm environments. |
-| **KY Extreme Precipitation Probability Atlas** | Atlas-14-style rainfall exceedance modeling using KY Mesonet data. |
-| **Heatwaves in Ghana (1961–2020)** | Percentile-based analysis of heatwave frequency, duration, and magnitude across climatic zones. |
-| **Tourism Climate Comfort Index (TCCI)** | Assessing tourism suitability across Ghana’s regions under evolving climate conditions. |
-
----
 
 ## 🧰 Skills & Tools  
 
@@ -106,7 +95,7 @@ Beyond research, I am passionate about mentoring young scientists and fostering 
 ## 🌟 Vision & Motivation  
 
 <p align="justify">
-Weather affects everything — our safety, food systems, infrastructure, and health.  
+Weather affects everything - our safety, food systems, infrastructure, and health.  
 My goal is to bridge <b>data science, atmospheric physics, and societal resilience</b> to better predict and mitigate high-impact weather.  
 From heatwaves in Africa to tornadoes in the U.S., I aim to contribute to a world where <b>climate research translates into preparedness and protection</b>.
 </p>
