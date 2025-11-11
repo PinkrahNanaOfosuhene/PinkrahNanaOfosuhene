@@ -29,12 +29,12 @@ Currently, I contribute to the <b>Kentucky NSF EPSCoR - CLIMBS Project 1: Enhanc
 </p>
 
 <p align="justify">
-My academic journey began at <b>Kwame Nkrumah University of Science and Technology (KNUST), Ghana</b>, where I earned a <b>B.Sc. in Meteorology and Climate Science</b> and later served as a <b>Teaching and Research Assistant</b>.  
-My undergraduate research focused on <b>heatwave trends and characteristics</b> across Ghana, and since then, I have expanded my expertise to <b>severe-storm diagnostics</b>, <b>climate modeling</b>, and <b>hydroclimatology</b>.
+My academic journey began at <b>Kwame Nkrumah University of Science and Technology (KNUST), Ghana</b>, where I earned a B.Sc. in Meteorology and Climate Science and later served as a Teaching and Research Assistant.  
+My undergraduate research focused on <b>heatwave trends and characteristics</b> across Ghana, and since then, I have expanded my expertise to severe-storm diagnostics, climate modeling, and hydroclimatology.
 </p>
 
 <p align="justify">
-Driven by curiosity and a love for science, I use <b>data-driven methods</b> and <b>numerical modeling</b> to understand the processes that shape extreme weather events — from <b>heatwaves in West Africa</b> to <b>tornado environments in the United States</b>.  
+Driven by curiosity and a love for science, I use data-driven methods and <b>numerical modeling to understand the processes that shape extreme weather events - from heatwaves in West Africa to tornado environments in the United States.  
 Beyond research, I am passionate about mentoring young scientists and fostering data-literacy in climate and atmospheric sciences.
 </p>
 
