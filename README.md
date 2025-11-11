@@ -24,7 +24,7 @@
 ## About Me  
 
 <p align="justify">
-I am <b>Pinkrah Nana Ofosuhene</b> - a Graduate Research Assistant in the <b>M.S. Geoscience</b> program at Western Kentucky University (WKU).  
+I am <b>Pinkrah Nana Ofosuhene</b> - a Graduate Research Assistant in the M.S. Geoscience program at Western Kentucky University (WKU).  
 Currently, I contribute to the Kentucky NSF EPSCoR - CLIMBS Project 1: Enhance Weather Understanding, where my work explores storm environments, severe convective weather, and atmospheric variability across Kentucky and the Ohio River Valley.  
 </p>
 
