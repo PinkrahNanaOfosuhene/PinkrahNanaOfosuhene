@@ -34,7 +34,7 @@ My undergraduate research focused on <b>heatwave trends and characteristics</b> 
 </p>
 
 <p align="justify">
-Driven by curiosity and a love for science, I use data-driven methods and <b>numerical modeling to understand the processes that shape extreme weather events - from heatwaves in West Africa to tornado environments in the United States.  
+Driven by curiosity and a love for science, I use data driven methods and numerical modeling to understand the processes that shape extreme weather events, with my current project focusing on understanding Storm environments in the Ohio River Valley (United States).  
 Beyond research, I am passionate about mentoring young scientists and fostering data-literacy in climate and atmospheric sciences.
 </p>
 
