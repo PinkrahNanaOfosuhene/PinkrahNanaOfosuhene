@@ -30,7 +30,7 @@ Currently, I contribute to the Kentucky NSF EPSCoR - CLIMBS Project 1: Enhance W
 
 <p align="justify">
 My academic journey began at Kwame Nkrumah University of Science and Technology (KNUST), Ghana, where I earned a B.Sc. in Meteorology and Climate Science and later served as a Teaching and Research Assistant.  
-My undergraduate research focused on <b>heatwave trends and characteristics</b> across Ghana, and since then, I have expanded my expertise to severe-storm diagnostics, climate modeling, and hydroclimatology.
+My undergraduate research focused on heatwave trends and characteristics across Ghana, and since then, I have expanded my expertise to severe-storm diagnostics, climate modeling, and hydroclimatology.
 </p>
 
 <p align="justify">
