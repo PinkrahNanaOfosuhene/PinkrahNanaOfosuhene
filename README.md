@@ -85,9 +85,9 @@ Beyond research, I am passionate about mentoring young scientists and fostering 
 
 - 🎓 **Graduate Research Assistant**, Western Kentucky University (2025–Present)  
   *NSF CLIMBS Project 1: Enhance Severe Weather Understanding*  
-- 🎓 **B.Sc. Meteorology & Climate Science**, KNUST (2024)  
+- 🎓 **B.Sc. Meteorology & Climate Science**, KNUST (2021 - 2024)  
   *Thesis: Trends and Characteristics of Heatwaves in Northern Ghana*  
-- **Teaching & Research Assistant**, Department of Meteorology and Climate Science, KNUST  
+- **Teaching & Research Assistant**, Department of Meteorology and Climate Science, KNUST (October,2024 - August,2025)
 - **Senior Forecasting Lead**, ForWEB (Forecasters’ Web), KNUST – Promoting weather forecasting and resilience-building initiatives across Ghana (https://www.forwebknust.com/ambassadors-network/2024).  
 
 ---
