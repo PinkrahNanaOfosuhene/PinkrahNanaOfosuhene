@@ -24,12 +24,12 @@
 ## About Me  
 
 <p align="justify">
-I am <b>Pinkrah Nana Ofosuhene</b> - a Graduate Research Assistant in the <b>M.S. Geoscience</b> program at <b>Western Kentucky University (WKU)</b>.  
-Currently, I contribute to the <b>Kentucky NSF EPSCoR - CLIMBS Project 1: Enhance Weather Understanding</b>, where my work explores <b>storm environments, severe convective weather, and atmospheric variability</b> across Kentucky and the Ohio River Valley.  
+I am <b>Pinkrah Nana Ofosuhene</b> - a Graduate Research Assistant in the <b>M.S. Geoscience</b> program at Western Kentucky University (WKU).  
+Currently, I contribute to the Kentucky NSF EPSCoR - CLIMBS Project 1: Enhance Weather Understanding, where my work explores storm environments, severe convective weather, and atmospheric variability across Kentucky and the Ohio River Valley.  
 </p>
 
 <p align="justify">
-My academic journey began at <b>Kwame Nkrumah University of Science and Technology (KNUST), Ghana</b>, where I earned a B.Sc. in Meteorology and Climate Science and later served as a Teaching and Research Assistant.  
+My academic journey began at Kwame Nkrumah University of Science and Technology (KNUST), Ghana, where I earned a B.Sc. in Meteorology and Climate Science and later served as a Teaching and Research Assistant.  
 My undergraduate research focused on <b>heatwave trends and characteristics</b> across Ghana, and since then, I have expanded my expertise to severe-storm diagnostics, climate modeling, and hydroclimatology.
 </p>
 
