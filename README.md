@@ -21,11 +21,11 @@
 
 ---
 
-## 🌪️ About Me  
+## About Me  
 
 <p align="justify">
-I am <b>Pinkrah Nana Ofosuhene</b> — a Graduate Research Assistant in the <b>M.S. Geoscience</b> program at <b>Western Kentucky University (WKU)</b>, working under the supervision of <b>Dr. Xingang Fan</b>.  
-Currently, I contribute to the <b>Kentucky NSF EPSCoR – CLIMBS Project 1: Enhance Weather Understanding</b>, where my work explores <b>storm environments, severe convective weather, and atmospheric variability</b> across Kentucky and the Ohio River Valley.  
+I am <b>Pinkrah Nana Ofosuhene</b> - a Graduate Research Assistant in the <b>M.S. Geoscience</b> program at <b>Western Kentucky University (WKU)</b>.  
+Currently, I contribute to the <b>Kentucky NSF EPSCoR - CLIMBS Project 1: Enhance Weather Understanding</b>, where my work explores <b>storm environments, severe convective weather, and atmospheric variability</b> across Kentucky and the Ohio River Valley.  
 </p>
 
 <p align="justify">
