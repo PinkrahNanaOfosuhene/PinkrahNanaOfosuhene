@@ -125,5 +125,5 @@ I aim to contribute to a world where <b>climate research translates into prepare
 ---
 
 ## ✨ “Science with purpose.”  
-> _“Understanding the atmosphere is not just about predicting storms —  
+> _“Understanding the atmosphere is not just about predicting storms -  
 it’s about protecting people, preserving ecosystems, and preparing societies for change.”_
