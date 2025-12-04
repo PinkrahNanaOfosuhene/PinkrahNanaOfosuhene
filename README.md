@@ -43,7 +43,7 @@ Beyond research, I am passionate about mentoring young scientists and fostering 
 ## ⚡ Research & Focus Areas  
 
 - 🌩️ **Severe Storm Environments:**  
-  Computation and analysis of convective parameters - such as CAPE, CIN, SRH, vertical wind shear, LCL height, lapse rates, vorticity, divergence, STP, SCP, EHI, and BRN - using ERA5 and reanalysis datasets and CMIP6 datasets.  
+  Computation and analysis of convective parameters - such as CAPE, CIN, SRH, vertical wind shear, LCL height, lapse rates, vorticity, divergence, STP, SCP, EHI, and BRN - using ERA5 reanalysis datasets and CMIP6 datasets.  
 
 - **Statistical & Climate Modeling:**  
   Developing predictive frameworks linking reanalysis (ERA5) and global climate models (CMIP6) to assess future changes in storm environments.  
