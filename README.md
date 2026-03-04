@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nana%20Ofosuhene%20Pinkrah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nana-ofosuhene-pinkrah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nana%20Ofosuhene%20Pinkrah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nana-pinkrah-4a4a73212)
 [![Gmail](https://img.shields.io/badge/Gmail-pinkrahnanaofosuhene9690-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinkrahnanaofosuhene9690@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-PinkrahNanaOfosuhene-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinkrahNanaOfosuhene)
 
