@@ -1,129 +1,168 @@
-<!-- HEADER ANIMATION -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=2AA889&center=true&vCenter=true&width=800&lines=Hello+World!+🌎;I'm+Pinkrah+Nana+Ofosuhene;M.S.+Geoscience+@+Western+Kentucky+University;Storm+Environments+|+Climate+Modeling+|+Data+Science" alt="Typing SVG">
-</h1>
+<div align="center">
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/nana-pinkrah-4a4a73212">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/PinkrahOfosu">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@pinkrahnanaofosuhene8926">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://github.com/PinkrahNanaOfosuhene">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Nana+Pinkrah+%F0%9F%8C%8D;Atmospheric+Scientist+%7C+Climate+Researcher;Graduate+Researcher+%40+WKU;Bridging+Science+and+Societal+Resilience" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nana%20Ofosuhene%20Pinkrah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nana-ofosuhene-pinkrah)
+[![Gmail](https://img.shields.io/badge/Gmail-pinkrahnanaofosuhene9690-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pinkrahnanaofosuhene9690@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-PinkrahNanaOfosuhene-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PinkrahNanaOfosuhene)
+
+</div>
 
 ---
 
-## About Me  
+## 🌩️ About Me
 
-<p align="justify">
-I am <b>Pinkrah Nana Ofosuhene</b>, a Graduate Teaching and Research Assistant in the M.S. Geoscience program at Western Kentucky University (WKU).  
-Currently, I contribute to the Kentucky NSF EPSCoR, CLIMBS Project 1: Enhance Weather Understanding, where my work explores storm environments, severe convective weather, and atmospheric variability across Kentucky and the Ohio River Valley.  
-</p>
+I am a **Graduate Research & Teaching Assistant** at the Department of Earth, Environmental & Atmospheric Sciences, **Western Kentucky University**, working under **Dr. Xingang Fan** on the **NSF Kentucky EPSCoR CLIMBS Project** (*Climate Resilience through Multidisciplinary Big Data Learning, Prediction & Building Response Systems*).
 
-<p align="justify">
-My academic journey began at Kwame Nkrumah University of Science and Technology (KNUST), Ghana, where I earned a B.Sc. in Meteorology and Climate Science and later served as a Teaching and Research Assistant.  
-My undergraduate research focused on heatwave trends and characteristics across Ghana, and since then, I have expanded my expertise to severe-storm diagnostics, climate modeling, and hydroclimatology.
-</p>
+My work sits at the intersection of **extreme weather modeling**, **climate projection**, and **data-driven atmospheric science**. I build Python-based diagnostics for large geophysical datasets, run workflows on **NCAR's Casper and Derecho HPC systems**, and translate reanalysis data into actionable insights about how storm environments are changing across the Ohio River Valley.
 
-<p align="justify">
-Driven by curiosity and a love for Meteorology, I use data driven methods and numerical modeling to understand the processes that shape extreme weather events, with my current project focusing on understanding Storm environments in the Ohio River Valley (United States).  
-Beyond research, I am passionate about mentoring young scientists and fostering data-literacy in climate and atmospheric sciences.
-</p>
+Before WKU, I earned my **B.Sc. in Meteorology and Climate Science** from **Kwame Nkrumah University of Science and Technology (KNUST)**, Ghana — graduating **Second Class Upper Division** — where I also served as a daily weather forecaster and Teaching & Research Assistant.
 
 ---
 
-## ⚡ Research & Focus Areas  
+## 🔬 Current Research
 
-- 🌩️ **Severe Storm Environments:**  
-  Computation and analysis of convective parameters - such as CAPE, CIN, SRH, vertical wind shear, LCL height, lapse rates, vorticity, divergence, STP, SCP, EHI, and BRN - using ERA5 reanalysis datasets and CMIP6 datasets.  
+<table>
+<tr>
+<td width="50%">
 
-- **Statistical & Climate Modeling:**  
-  Developing predictive frameworks linking reanalysis (ERA5) and global climate models (CMIP6) to assess future changes in storm environments.  
+### 🌪️ Severe Storm Climatology — Ohio River Basin
+*M.S. Thesis | WKU | Aug 2025 – Present*
 
-- **High-Performance Computing (HPC):**  
-  Executing large-scale computations on **NCAR’s Casper & Derecho** clusters using Python, Fortran, and parallelized workflows.  
+Climatological and future projections of severe-storm environments in the Ohio River Basin using **ERA5 reanalysis** and **downscaled CMIP6** outputs.
 
-- **Heatwaves & Climate Extremes:**  
-  Studying frequency, duration, and intensity of heatwaves and drought indices under varying RCP scenarios.  
+**Key diagnostics computed:**
+- CAPE / CIN
+- Significant Tornado Parameter (STP)
+- Storm-Relative Helicity (SRH)
+- Vertical Wind Shear
+- Lapse Rates & Vorticity
 
-- **Tropical Meteorology:**  
-  Understanding boundary-layer dynamics, monsoon circulations, and ENSO-related variability.
+**Tools:** Python · Xarray · MetPy · NCAR HPC
 
----
+</td>
+<td width="50%">
 
+### 🌡️ Heatwave Research — Ghana
+*KNUST Undergraduate Research | 2021 – 2024*
 
-## 🧰 Skills & Tools  
+First systematic investigation of heatwave trends in **Northern Ghana** using station data from the Ghana Meteorological Agency and RCP 8.5 / 2.6 projections.
 
-<p align="center">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" title="Python">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/fortran/fortran.png" title="Fortran">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" title="C++">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png" title="Jupyter Notebook">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/xarray/xarray.png" title="xarray">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/numpy/numpy.png" title="NumPy">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/matplotlib/matplotlib.png" title="Matplotlib">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/cartopy/cartopy.png" title="Cartopy">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" title="Linux">
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" title="LaTeX">
-</p>
+**Findings:** Heatwaves have been occurring for decades, largely undocumented. Projected to increase significantly in frequency, duration, and intensity.
 
-<p align="center">
-  <b>Frameworks & Tools:</b> ERA5 · HRRR · CDO · NCL · WRF · MetPy · pandas · Seaborn · scikit-learn · NCAR HPC (Casper & Derecho)
-</p>
+**Publications:**
+- 📄 Paper on heatwave prevalence across Ghana *(under review)*
+- 📄 Abstract published — Ghana Science Association
 
----
-
-## 🎓 Academic Highlights  
-
-- 🎓 **Graduate Research Assistant**, Western Kentucky University (2025–Present)  
-  *NSF CLIMBS Project 1: Enhance Severe Weather Understanding*  
-- 🎓 **B.Sc. Meteorology & Climate Science**, KNUST (2021 - 2024)  
-  *Thesis: Trends and Characteristics of Heatwaves in Northern Ghana*  
-- **Teaching & Research Assistant**, Department of Meteorology and Climate Science, KNUST (October,2024 - August,2025)
-- **Senior Forecasting Lead**, ForWEB (Forecasters’ Web), KNUST – Promoting weather forecasting and resilience-building initiatives across Ghana (https://www.forwebknust.com/ambassadors-network/2024).  
+</td>
+</tr>
+</table>
 
 ---
 
-## 🌟 Vision & Motivation  
+## 🛠️ Technical Skills
 
-<p align="justify">
-Weather affects everything - our safety, food systems, infrastructure, and health.  
-My goal is to bridge <b>data science, atmospheric physics, and societal resilience</b> to better predict and mitigate high-impact weather.  
-I aim to contribute to a world where <b>climate research translates into preparedness and protection</b>.
-</p>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+**Libraries & Frameworks**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Xarray](https://img.shields.io/badge/Xarray-0072B2?style=for-the-badge&logo=python&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Cartopy](https://img.shields.io/badge/Cartopy-2196F3?style=for-the-badge&logo=python&logoColor=white)
+![MetPy](https://img.shields.io/badge/MetPy-D32F2F?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+
+**Atmospheric Science Tools**
+
+![WRF](https://img.shields.io/badge/WRF_Model-1565C0?style=for-the-badge&logoColor=white)
+![CDO](https://img.shields.io/badge/Climate_Data_Operators-2E7D32?style=for-the-badge&logoColor=white)
+![NCL](https://img.shields.io/badge/NCAR_Command_Language-6A1B9A?style=for-the-badge&logoColor=white)
+![ERA5](https://img.shields.io/badge/ERA5_Reanalysis-0277BD?style=for-the-badge&logoColor=white)
+![CMIP6](https://img.shields.io/badge/CMIP6-00695C?style=for-the-badge&logoColor=white)
+
+**Platforms & Environments**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![NCAR HPC](https://img.shields.io/badge/NCAR_HPC_(Casper%20%7C%20Derecho)-1A237E?style=for-the-badge&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=PinkrahNanaOfosuhene&theme=highcontrast&hide_border=true">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinkrahNanaOfosuhene&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkrahNanaOfosuhene&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene&theme=react-dark&bg_color=0D1117&color=39D4E5&line=FF5733&point=F1C40F&area=true&hide_border=true" width="100%">
-</p>
+</div>
 
-<h3 align="center">👀 Visitor Count</h3>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/PinkrahNanaOfosuhene/count.svg">
-</p>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PinkrahNanaOfosuhene&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## ✨ “Science with purpose.”  
-> _“Understanding the atmosphere is not just about predicting storms -  
-it’s about protecting people, preserving ecosystems, and preparing societies for change.”_
+## 📚 Publications
+
+| Year | Title | Status |
+|------|-------|--------|
+| 2024 | Yamba, Amponsah, **Pinkrah** et al. — *Historical Analysis of Heatwaves Prevalence, Frequency, Duration and Intensity in Ghana* | Under Review |
+| 2024 | Yamba, Amponsah, **Pinkrah** — *Characteristics and Long-term Trends of Heatwaves in Northern Ghana* | Published (Ghana Science Association Abstract) |
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period | GPA |
+|--------|------------|--------|-----|
+| 🇺🇸 **M.S. Geological Sciences** | Western Kentucky University | Aug 2025 – Present | 4.0 / 4.0 |
+| 🇬🇭 **B.Sc. Meteorology & Climate Science** | KNUST, Ghana | Jan 2021 – Nov 2024 | Second Class Upper Division |
+
+---
+
+## 🌍 Research Interests
+
+```
+🌪️  Extreme Weather Events & Severe Storm Prediction
+🌡️  Climate Change, Variability & Dynamics
+🌧️  Hydroclimatology & Precipitation Extremes
+🌀  Tropical Meteorology & West African Climate
+🖥️  Numerical Weather Prediction (WRF)
+📡  Climate Modeling (ERA5 · CMIP6 · Downscaling)
+```
+
+---
+
+## 🏆 Leadership & Outreach
+
+- **Science & Technology Head** — Meteorology & Climate Science Students' Association, KNUST *(Aug 2023 – Sep 2024)*
+- **Python Instructor** — Undergraduate workshops in data analysis, visualization & scientific computing, KNUST
+- **ForWEB Advocate** — Weather forecasting early warning & disaster preparedness program, Ghana *(2021 – 2024)*
+- **Daily Weather Forecaster** — Operational forecasts for Kumasi & national summary outlooks, KNUST
+
+---
+
+<div align="center">
+
+### 💬 *"Climate science is only as useful as the systems built to respond to it."*
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=PinkrahNanaOfosuhene&color=4A90D9&style=for-the-badge&label=Profile+Views)
+
+</div>
