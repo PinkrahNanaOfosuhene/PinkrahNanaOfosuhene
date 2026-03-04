@@ -22,7 +22,42 @@ Before WKU, I earned my **B.Sc. in Meteorology and Climate Science** from **Kwam
 
 ---
 
-## 🔬 Current Research
+## 🚀 Currently Working On
+
+<table>
+<tr>
+<td width="60%">
+
+### 🌪️ M.S. Thesis — Severe Storm Climatology
+**Ohio River Basin | WKU | Aug 2025 – Present**
+
+Building climatological baselines and future projections of severe-storm environments using **ERA5 reanalysis** and **downscaled CMIP6** model outputs. Computing convective diagnostics across multi-decadal periods to quantify how tornado and hail environments are shifting under climate change.
+
+**Active diagnostics:** CAPE · CIN · STP · SRH · Wind Shear · Lapse Rates · Vorticity
+
+**Stack:** Python · Xarray · MetPy · Cartopy · NCAR HPC (Casper / Derecho)
+
+</td>
+<td width="40%">
+
+**Status**
+
+🟢 Data pipeline — complete
+🟢 ERA5 diagnostics — complete
+🟡 CMIP6 downscaling — in progress
+🔵 Future scenario maps — upcoming
+🔵 Thesis writing — upcoming
+
+**Advisor:** Dr. Xingang Fan
+**Project:** NSF EPSCoR CLIMBS
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Research
 
 <table>
 <tr>
@@ -100,6 +135,16 @@ First systematic investigation of heatwave trends in **Northern Ghana** using st
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=PinkrahNanaOfosuhene&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -112,6 +157,30 @@ First systematic investigation of heatwave trends in **Northern Ghana** using st
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=PinkrahNanaOfosuhene&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PinkrahNanaOfosuhene&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PinkrahNanaOfosuhene/PinkrahNanaOfosuhene/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PinkrahNanaOfosuhene/PinkrahNanaOfosuhene/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/PinkrahNanaOfosuhene/PinkrahNanaOfosuhene/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -148,7 +217,7 @@ First systematic investigation of heatwave trends in **Northern Ghana** using st
 
 ---
 
-## 🏆 Leadership & Outreach
+## 🏅 Leadership & Outreach
 
 - **Science & Technology Head** — Meteorology & Climate Science Students' Association, KNUST *(Aug 2023 – Sep 2024)*
 - **Python Instructor** — Undergraduate workshops in data analysis, visualization & scientific computing, KNUST
