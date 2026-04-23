@@ -197,10 +197,10 @@ First systematic investigation of heatwave trends in **Northern Ghana** using st
 
 ## 🎓 Education
 
-| Degree | Institution | Period | GPA |
-|--------|------------|--------|-----|
-| 🇺🇸 **M.S. Geological Sciences** | Western Kentucky University | Aug 2025 – Present | 4.0 / 4.0 |
-| 🇬🇭 **B.Sc. Meteorology & Climate Science** | KNUST, Ghana | Jan 2021 – Nov 2024 | Second Class Upper Division |
+| Degree | Institution | Period |
+|--------|------------|--------|
+| 🇺🇸 **M.S. Geological Sciences** | Western Kentucky University | Aug 2025 – Present |
+| 🇬🇭 **B.Sc. Meteorology & Climate Science** | KNUST, Ghana | Jan 2021 – Nov 2024 |
 
 ---
 
