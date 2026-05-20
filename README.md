@@ -12,13 +12,17 @@
 
 ---
 
-## 🌩️ About Me
+## About
 
-I am a **Graduate Research & Teaching Assistant** at the Department of Earth, Environmental & Atmospheric Sciences, **Western Kentucky University**, working under **Dr. Xingang Fan** on the **NSF Kentucky EPSCoR CLIMBS Project** (*Climate Resilience through Multidisciplinary Big Data Learning, Prediction & Building Response Systems*).
+I am an atmospheric scientist specializing in severe storm environments, climate variability, and data-driven prediction frameworks at Western Kentucky University. My work integrates understanding of atmospheric processes with high-performance computing and machine learning to quantify how storm-supportive environments evolve across space, time, and future climate scenarios.
 
-My work sits at the intersection of **extreme weather modeling**, **climate projection**, and **data-driven atmospheric science**. I build Python-based diagnostics for large geophysical datasets, run workflows on **NCAR's Casper and Derecho HPC systems**, and translate reanalysis data into actionable insights about how storm environments are changing across the Ohio River Valley.
+My current research focuses on the Ohio River Basin, a region strongly influenced by northward moisture transport from the Gulf of Mexico into the interior United States, which enhances convective instability. Leveraging ERA5 reanalysis, NOAA Storm Events Database, and downscaled CMIP6 climate projections, I develop probabilistic frameworks to estimate the occurrence of tornadoes, large hail, and damaging winds at high spatiotemporal resolution. This work involves Random Forest classification with calibration, event–environment matching, and diagnostic analysis of thermodynamic and kinematic parameters, including CAPE, vertical wind shear, storm-relative helicity, lapse rates, and a large suite (100) of derived environmental predictors.
 
-Before WKU, I earned my **B.Sc. in Meteorology and Climate Science** from **Kwame Nkrumah University of Science and Technology (KNUST)**, Ghana — graduating **Second Class Upper Division** — where I also served as a daily weather forecaster and Teaching & Research Assistant.
+I conduct large-scale atmospheric data processing on national high-performance computing systems, including NCAR’s Derecho supercomputer and Casper cluster under Dr. Fan, as well as Stampede3 supercomputer at the Texas Advanced Computing Center under Dr. Manmeet Singh. Across these platforms, I generate multi-decadal climatologies of severe weather diagnostics and develop scalable, reproducible workflows for processing multi-terabyte atmospheric datasets. My computational framework integrates Python-based scientific computing (xarray, MetPy, scikit-learn), NetCDF data pipelines, and parallelized batch processing using PBS scheduling.
+
+In addition, I apply numerical weather prediction using the WRF (Weather Research and Forecasting Model) to simulate extreme events, including mesoscale convective systems and flash floods, enabling process-level insight alongside statistical modeling. My broader research interests include severe weather, climate modeling, hydroclimatology, and climate dynamics.
+
+I am particularly interested in advancing physically interpretable machine learning approaches in atmospheric science and contributing to research that improves severe weather prediction, risk assessment, and societal resilience.
 
 ---
 
