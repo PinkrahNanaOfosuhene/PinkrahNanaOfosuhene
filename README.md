@@ -46,25 +46,6 @@ My thesis examines environments supportive of tornadoes, large hail, and damagin
 - NCAR Derecho and Casper high-performance computing systems
 - PBS batch processing for multi-decadal atmospheric datasets
 
-**Current status**
-- ERA5 diagnostic processing and event-environment matching are ongoing
-- CMIP6-based future projection analysis is in development
-- Thesis writing and manuscript preparation will follow the primary analysis phase
-
----
-
-## Research Experience
-
-### Severe-Storm Climatology - Ohio River Basin
-**M.S. Thesis | Western Kentucky University | Aug 2025 - Present**
-
-Research focused on observed and projected severe-storm environments across the Ohio River Basin, with emphasis on physically interpretable machine-learning approaches for tornado, large-hail, and damaging-wind occurrence.
-
-### Historical Heatwave Analysis in Ghana
-**Undergraduate Research | KNUST | 2021 - 2024**
-
-Research examining heatwave prevalence, frequency, duration, and intensity across Ghana using daily maximum temperature data. This work contributed to a manuscript under review and a Ghana Science Association abstract.
-
 ---
 
 ## 🛠️ Technical Skills
