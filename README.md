@@ -26,78 +26,44 @@ I am particularly interested in advancing physically interpretable machine learn
 
 ---
 
-## 🚀 Currently Working On
+## Current Research
 
-<table>
-<tr>
-<td width="60%">
+### M.S. Thesis - Severe-Storm Environment Climatology
+**Climatology and Future Projection of Mesoscale Severe-Storm Environments in the Ohio River Basin**  
+Western Kentucky University | Aug 2025 - Present  
+Advisor: **Dr. Xingang Fan** | NSF Kentucky EPSCoR CLIMBS
 
-### 🌪️ M.S. Thesis — Severe Storm Climatology
-**Ohio River Basin | WKU | Aug 2025 – Present**
+My thesis examines environments supportive of tornadoes, large hail, and damaging winds across the Ohio River Basin using ERA5 reanalysis, NOAA Storm Events, and downscaled CMIP6 climate projections. The project develops event-environment matching and probabilistic machine-learning workflows to evaluate how severe-storm-supportive environments vary across space, time, and future climate scenarios.
 
-Building climatological baselines and future projections of severe-storm environments using **ERA5 reanalysis** and **downscaled CMIP6** model outputs. Computing convective diagnostics across multi-decadal periods to quantify how tornado and hail environments are shifting under climate change.
+**Core methods and datasets**
+- ERA5 reanalysis and NOAA Storm Events Database
+- Downscaled CMIP6 climate projections
+- Random Forest classification and probability calibration
+- Thermodynamic and kinematic diagnostics including CAPE, CIN, vertical wind shear, storm-relative helicity, lapse rates, and Significant Tornado Parameter
 
-**Active diagnostics:** CAPE · CIN · STP · SRH · Wind Shear · Lapse Rates · Vorticity
+**Computational workflow**
+- Python, Xarray, MetPy, Cartopy, Scikit-learn, NetCDF
+- NCAR Derecho and Casper high-performance computing systems
+- PBS batch processing for multi-decadal atmospheric datasets
 
-**Stack:** Python · Xarray · MetPy · Cartopy · NCAR HPC (Casper / Derecho)
-
-</td>
-<td width="40%">
-
-**Status**
-
-🟢 Data pipeline — complete
-🟢 ERA5 diagnostics — complete
-🟡 CMIP6 downscaling — in progress
-🔵 Future scenario maps — upcoming
-🔵 Thesis writing — upcoming
-
-**Advisor:** Dr. Xingang Fan
-**Project:** NSF EPSCoR CLIMBS
-
-</td>
-</tr>
-</table>
+**Current status**
+- ERA5 diagnostic processing and event-environment matching are ongoing
+- CMIP6-based future projection analysis is in development
+- Thesis writing and manuscript preparation will follow the primary analysis phase
 
 ---
 
-## 🔬 Research
+## Research Experience
 
-<table>
-<tr>
-<td width="50%">
+### Severe-Storm Climatology - Ohio River Basin
+**M.S. Thesis | Western Kentucky University | Aug 2025 - Present**
 
-### 🌪️ Severe Storm Climatology — Ohio River Basin
-*M.S. Thesis | WKU | Aug 2025 – Present*
+Research focused on observed and projected severe-storm environments across the Ohio River Basin, with emphasis on physically interpretable machine-learning approaches for tornado, large-hail, and damaging-wind occurrence.
 
-Climatological and future projections of severe-storm environments in the Ohio River Basin using **ERA5 reanalysis** and **downscaled CMIP6** outputs.
+### Historical Heatwave Analysis in Ghana
+**Undergraduate Research | KNUST | 2021 - 2024**
 
-**Key diagnostics computed:**
-- CAPE / CIN
-- Significant Tornado Parameter (STP)
-- Storm-Relative Helicity (SRH)
-- Vertical Wind Shear
-- Lapse Rates & Vorticity
-
-**Tools:** Python · Xarray · MetPy · NCAR HPC
-
-</td>
-<td width="50%">
-
-### 🌡️ Heatwave Research — Ghana
-*KNUST Undergraduate Research | 2021 – 2024*
-
-First systematic investigation of heatwave trends in **Northern Ghana** using station data from the Ghana Meteorological Agency and RCP 8.5 / 2.6 projections.
-
-**Findings:** Heatwaves have been occurring for decades, largely undocumented. Projected to increase significantly in frequency, duration, and intensity.
-
-**Publications:**
-- 📄 Paper on heatwave prevalence across Ghana *(under review)*
-- 📄 Abstract published — Ghana Science Association
-
-</td>
-</tr>
-</table>
+Research examining heatwave prevalence, frequency, duration, and intensity across Ghana using daily maximum temperature data. This work contributed to a manuscript under review and a Ghana Science Association abstract.
 
 ---
 
